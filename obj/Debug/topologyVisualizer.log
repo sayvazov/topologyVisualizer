@@ -1,0 +1,20 @@
+﻿  ofApp.cpp
+  Unknown compiler version - please run the configure tests and report the results
+src\ofApp.cpp(44): warning C4018: '<': signed/unsigned mismatch
+src\ofApp.cpp(50): warning C4018: '<': signed/unsigned mismatch
+src\ofApp.cpp(65): warning C4018: '<': signed/unsigned mismatch
+src\ofApp.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  uriparser.lib(UriParse.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library bin\topologyVisualizer_debug.lib and object bin\topologyVisualizer_debug.exp
+  Generating code
+  Finished generating code
+  topologyVisualizer.vcxproj -> C:\Users\sayva\Code\of_v20170307_vs_release\apps\myApps\topologyVisualizer\bin\topologyVisualizer_debug.exe
+  topologyVisualizer.vcxproj -> bin\topologyVisualizer_debug.pdb (Full PDB)
+  
+  	                   2	C:\Users\sayva\Code\of_v20170307_vs_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 5647872	C:\Users\sayva\Code\of_v20170307_vs_release\apps\myApps\topologyVisualizer\bin\FreeImage.dll
+  
+  	                   1	C:\Users\sayva\Code\of_v20170307_vs_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\sayva\Code\of_v20170307_vs_release\apps\myApps\topologyVisualizer\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\sayva\Code\of_v20170307_vs_release\apps\myApps\topologyVisualizer\bin\fmodexL.dll
